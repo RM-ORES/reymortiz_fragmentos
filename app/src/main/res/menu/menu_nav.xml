@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/firstFragment"
+        android:icon="@drawable/baseline_cruelty_free_24"
+        android:contentDescription="@string/primer_fragmento"
+        android:title="@string/primer_fragmento" />
+    <item
+        android:id="@+id/fourthFragment"
+        android:icon="@drawable/baseline_transgender_24"
+        android:contentDescription="@string/cuarto_fragmento"
+        android:title="@string/cuarto_fragmento" />
+    <item
+        android:id="@+id/seventhFragment"
+        android:icon="@drawable/baseline_flare_24"
+        android:contentDescription="@string/septimo_fragmento"
+        android:title="@string/septimo_fragmento" />
+</menu>

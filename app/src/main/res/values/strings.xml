@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">reymortiz_fragmentos</string>
+    <string name="primer_fragmento">Primer Fragmento</string>
+    <string name="segundo_fragmento">Segundo Fragmento</string>
+    <string name="tercer_fragmento">Tercer Fragmento</string>
+    <string name="cuarto_fragmento">Cuarto Fragmento</string>
+    <string name="quinto_fragmento">Quinto Fragmento</string>
+    <string name="sexto_fragmento">Sexto Fragmento</string>
+    <string name="septimo_fragmento">Séptimo Fragmento</string>
+    <string name="octavo_fragmento">Octavo Fragmento</string>
+    <string name="noveno_fragmento">Noveno Fragmento</string>
+    <string name="retroceder">Retroceder</string>
+</resources>
